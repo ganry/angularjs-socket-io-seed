@@ -1,7 +1,7 @@
 # AngularJS Socket.io Seed
 
 With this AngularJS seed you can start developing realtime application right away. No more setting
-up server stuff to start your development. This seed include AngularJS on the front and NodeJS, Express and
+up server stuff to start your development. This seed includes AngularJS on the front and NodeJS, Express and
 Socket.io on the back. Instead of wasting your time on Project configuration you can start making an awesome app today.
 
 This project is an application skeleton for writing [AngularJS](http://angularjs.org/) apps that use
