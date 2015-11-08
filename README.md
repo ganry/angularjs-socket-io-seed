@@ -9,7 +9,9 @@ web sockets to add real-time functionality. If you're not planning on using web 
 should consider the [AngularJS Express Seed](https://github.com/nyozz/angularjs-express-seed) instead.
 
 As Template Engine I chose Handlebars instead of Jade. Even though Handlebars has some conflicts with Angular,
-I find the syntax a lot better. If you want to use AngularJS expressions inside the templates you have to escape them: **\\{[testExpression}}**
+I find the syntax a lot better. If you want to use AngularJS expressions inside the templates you have to escape them: 
+
+**\\{[testExpression}}**
 
 ## How to use it
 
