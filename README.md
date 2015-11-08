@@ -11,10 +11,6 @@ should consider the [AngularJS Express Seed](https://github.com/nyozz/angularjs-
 As Template Engine I chose Handlebars instead of Jade. Even though Handlebars has some conflicts with Angular,
 I find the syntax a lot better. If you want to use AngularJS expressions inside the templates you have to escape them: **\\{[testExpression}}**
 
-_Note: Although Handlebars supports interpolation, you should be doing that mostly on the client. Mixing
-server and browser templating will convolute your app. Instead, use Handlebars as a syntactic sugar for
-HTML, and let AngularJS take care of interpolation on the browser side._
-
 ## How to use it
 
 Clone this repository and run the following shell commands afterwards:
