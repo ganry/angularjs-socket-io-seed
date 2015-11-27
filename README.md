@@ -6,7 +6,7 @@ Socket.io on the back. Instead of wasting your time on Project configuration you
 
 This project is an application skeleton for writing [AngularJS](http://angularjs.org/) apps that use
 web sockets to add real-time functionality. If you're not planning on using web sockets, you
-should consider the [AngularJS Express Seed](https://github.com/nyozz/angularjs-express-seed) instead.
+should consider the [AngularJS Express Seed](https://github.com/ganry/angularjs-express-seed) instead.
 
 As Template Engine I chose Handlebars instead of Jade. Even though Handlebars has some conflicts with Angular,
 I find the syntax a lot better. If you want to use AngularJS expressions inside the templates you have to escape them: 
