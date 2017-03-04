@@ -64,4 +64,4 @@ For more on Express and Socket.io, http://expressjs.com/ and http://http://socke
 your friends.
 
 If you search for more seeds and example App regarding AngularJS you can visit my homepage.
-http://www.henrykeller.eu
+http://www.creativemind.info
